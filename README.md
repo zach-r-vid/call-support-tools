@@ -29,7 +29,7 @@ These tools were created to reduce friction in a high-pressure environment where
 ## 📂 Files
 
 - `budget_adjustment_calculator.xlsx` – Adjustable 10% budget sheet
-- `time_tracker_notebook.ipynb` – *(coming soon)*
+- `time_tracker_notebook.xlsx` - Use to manually track call times for a rough estimate
 
 ---
 
